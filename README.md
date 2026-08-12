@@ -8,3 +8,7 @@ This repository documents my learning progress and projects as i continue develo
 
 ## Purpose
 The aim is to track my growth and development journey
+
+## Current Focus
+- Building practical software projects
+- Learning Git and GitHub 

@@ -1,0 +1,16 @@
+# Software Engineering Journey
+
+This repository documents my learning progress and projects as i continue developing my software engineering skills.
+## SkillS i am developing
+
+- Web Development
+- Git and GitHub
+- Programming Fundamentals
+- Software Engineering Practices
+
+## Purpose
+The aim of this repository is to track my growth and showcase my development journey
+
+## Current Focus
+- Building practical software projects
+- Learning Git and GitHub 

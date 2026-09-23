@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(244, 247, 251);
+    color: rgb(34, 34, 34);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(30, 58, 95);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    margin: 0;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(221, 221, 221);
+}
+
+section h2 {
+    color: rgb(30, 58, 95);
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.interests {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.interests li {
+    background-color: rgb(232, 241, 251);
+    color: rgb(30, 58, 95);
+    padding: 20px;
+    border: 1px solid rgb(185, 208, 232);
+    border-radius: 8px;
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+}
+
+section img {
+    display: block;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid rgb(30, 58, 95);
+    margin: 20px auto;
+}
+
+a {
+    color: rgb(22, 119, 200);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: rgb(30, 58, 95);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 0;
+}
